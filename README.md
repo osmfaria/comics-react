@@ -3,7 +3,6 @@
 This is the front end of a comics ecommerce!
 
 > Check the deployed [app](https://react-entrega-s3-kenzieshop-osmfaria.vercel.app/).
-<img src="./src/assets/burger-ecommerce.png" />
 
 💭 features:\
 \
