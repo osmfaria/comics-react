@@ -7,7 +7,7 @@ This is the front end of a comics ecommerce!
 💭 features:\
 \
 :heavy_check_mark: Use local storage to save user's cart products.\
-:heavy_check_mark: Use Redux for state management.\
+:heavy_check_mark: Use Redux for state management.
 
 ## 📋 Instalation guide
 
